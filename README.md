@@ -1,3 +1,8 @@
+
+# update!
+this website is a backup for now, please do not use!
+
+
 # A24
 Offical new website, for my cheat
 
