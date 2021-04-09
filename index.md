@@ -17,5 +17,6 @@ Our page is currently down for matinance, please be pacient and wait for us to f
 
 ### Info If Website Is Down
 
-if our website is down, its either because we are fixing somthing, reparing files, uploading new files, or we are just down because of connection issues.
+if our website is down, its either because we are fixing somthing, reparing files, 
+uploading new files, or we are just down because of connection issues.
 Our website will comeback on after a few hour if its down.
