@@ -12,4 +12,4 @@ Our page is currently down for matinance, please be pacient and wait for us to f
 [A24 Github](https://github.com/advance24th)
 
 **Agreements**
-[Our Agreements](
+[Our Agreements](https://github.com/UlandSanders/A24/blob/uptodate/.policys.md)
