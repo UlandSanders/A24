@@ -1,3 +1,7 @@
+### this repository, has been closed due to @advance24th, who origionally created this website, has requested it do be arcived, because he is making the current new website :P.
+
+
+
 # A24
 Offical new website, for my cheat
 
